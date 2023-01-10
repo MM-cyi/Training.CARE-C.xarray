@@ -5,4 +5,3 @@ xarray
 netcdf4
 seaborn
 pooch
-wrf-python
